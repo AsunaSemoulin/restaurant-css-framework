@@ -1,0 +1,19 @@
+@import url(./libs/reset.scss);
+*,
+::before,
+::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html body {
+  height: 100%;
+}
+
+body {
+  background-color: white;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*# sourceMappingURL=style.css.map */
