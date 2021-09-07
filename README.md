@@ -2,5 +2,4 @@
 
 #### Menu page
 
-Credit pictures : * Pexels.com
-                  * Pinterest
+Credit pictures : Pexels.com, Pinterest
