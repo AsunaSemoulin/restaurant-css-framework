@@ -20,7 +20,7 @@ body {
 }
 
 .container #dropdownMenuButton1 {
-  background-image: url(/assets/img/repas/bolo.jpg);
+  background-image: url(../img/repas/bolo.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -28,7 +28,7 @@ body {
 }
 
 .container #dropdownMenuButton2 {
-  background-image: url(/assets/img/repas/shrimp.jpg);
+  background-image: url(../img/repas/shrimp.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -36,7 +36,7 @@ body {
 }
 
 .container #dropdownMenuButton3 {
-  background-image: url(/assets/img/repas/carbo.jpg);
+  background-image: url(../img/repas/carbo.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -44,7 +44,7 @@ body {
 }
 
 .container #dropdownMenuButton4 {
-  background-image: url(/assets/img/repas/green.jpg);
+  background-image: url(../img/repas/green.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -52,7 +52,7 @@ body {
 }
 
 .container #dropdownMenuButton5 {
-  background-image: url(/assets/img/repas/raviolis.jpg);
+  background-image: url(../img/repas/raviolis.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -60,7 +60,7 @@ body {
 }
 
 .container #dropdownMenuButton6 {
-  background-image: url(/assets/img/repas/courgette.jpg);
+  background-image: url(../img/repas/courgette.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -68,7 +68,7 @@ body {
 }
 
 .container #dropdownMenuButton7 {
-  background-image: url(/assets/img/repas/peppers.jpg);
+  background-image: url(../img/repas/peppers.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -76,7 +76,7 @@ body {
 }
 
 .container #dropdownMenuButton8 {
-  background-image: url(/assets/img/repas/meatpasta.jpg);
+  background-image: url(../img/repas/meatpasta.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -84,7 +84,7 @@ body {
 }
 
 .container #dropdownMenuButton9 {
-  background-image: url(/assets/img/repas/duck.jpg);
+  background-image: url(../img/repas/duck.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -92,7 +92,7 @@ body {
 }
 
 .container #dropdownMenuButton10 {
-  background-image: url(/assets/img/repas/salmon.jpg);
+  background-image: url(../img/repas/salmon.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
