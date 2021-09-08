@@ -161,16 +161,23 @@
                 </aside>
             </div>
         </section>
-        <nav aria-label="pagination">
+        <nav aria-label="Page navigation example">
             <ul class="pagination">
-                <li><a href=""><span aria-hidden="true">«</span><span class="visuallyhidden">previous set of
-                            pages</span></a></li>
-                <li><a href="./index.html"><span class="visuallyhidden">Accueil </span>1</a></li>
-                <li><a href="./menu.html" aria-current="page"><span class="visuallyhidden">Menu </span>2</a></li>
-                <li><a href="./pictures.html"><span class="visuallyhidden">pictures </span>3</a></li>
-                <li><a href="./restaurant.html"><span class="visuallyhidden">restaurant </span>4</a></li>
-                <li><a href="./contact.html"><span class="visuallyhidden">next set of pages</span><span
-                            aria-hidden="true">»</span></a></li>
+                <li class="page-item">
+                    <a class="page-link" href="./menu.html" aria-label="Previous">
+                        <span aria-hidden="true">&laquo;</span>
+                    </a>
+                </li>
+                <li class="page-item"><a class="page-link" href="./index.html">1</a></li>
+                <li class="page-item"><a class="page-link" href="./menu.html">2</a></li>
+                <li class="page-item"><a class="page-link" href="./pictures.html">3</a></li>
+                <li class="page-item"><a class="page-link" href="./restaurant.html">4</a></li>
+                <li class="page-item"><a class="page-link" href="./contact.html">5</a></li>
+                <li class="page-item">
+                    <a class="page-link" href="./restaurant.html" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                    </a>
+                </li>
             </ul>
         </nav>
     </main>
