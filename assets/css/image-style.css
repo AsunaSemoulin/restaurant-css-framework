@@ -1,0 +1,21 @@
+
+*,
+::before,
+::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  height: 0;
+}
+
+html body {
+  height: 100%;
+}
+
+body {
+  background-color: white;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*# sourceMappingURL=image-style.css.map */
